@@ -1,8 +1,3 @@
-# Marsha AI Language
-
-[![Discord Follow](https://dcbadge.vercel.app/api/server/p5BTaWAdjm?style=flat)](https://discord.gg/p5BTaWAdjm)
-[![GitHub Repo Stars](https://img.shields.io/github/stars/alantech/marsha?style=social)](https://github.com/alantech/marsha)
-
 <p align="center"><b>Describe Logic ⴲ Provide Examples ⴲ Run Reliably</b><br /><br /><img src="./examples/images/duckduckgo-terminal.gif" /></p>
 
 Marsha is an LLM-based programming language. Describe what you want done with a simple syntax, provide examples of usage, and the Marsha compiler will guide an LLM to produce tested Python software.
